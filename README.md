@@ -92,3 +92,12 @@ The trained model weights are stored securely in `emotion_model.pth` located at 
 <div align="center">
   <p><i>Building intuitive tools to analyze human emotion.</i></p>
 </div>
+
+---
+
+## 👨‍💻 Author
+
+**Khizar Ishtiaq**  
+*AI Engineer*  
+- **LinkedIn:** [www.linkedin.com/in/khizar-ishtiaq-](https://www.linkedin.com/in/khizar-ishtiaq-)
+- **Portfolio:** [khizarai.vercel.app](https://khizarai.vercel.app)
