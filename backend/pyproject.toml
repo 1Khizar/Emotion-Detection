@@ -1,0 +1,16 @@
+[project]
+name = "emotisense-backend"
+version = "0.1.0"
+description = "FastAPI backend for EmotiSense"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.111.0",
+    "numpy>=1.26.4",
+    "opencv-python-headless>=4.9.0.80",
+    "pillow>=10.3.0",
+    "pydantic>=2.7.1",
+    "python-multipart>=0.0.9",
+    "torch>=2.2.2",
+    "torchvision>=0.17.2",
+    "uvicorn[standard]>=0.29.0",
+]

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+pydantic
+# Optional: for face alignment (install separately if needed)
+# dlib
